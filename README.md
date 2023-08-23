@@ -16,7 +16,7 @@ Follow these instructions to get started with using the Bank Management System.
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/Bank-Management-System.git
+    git clone https://github.com/Safayatul-Islam-Bhuiyan/Bank-Management-System.git
     cd Bank-Management-System
     ```
 
@@ -101,9 +101,6 @@ Follow these instructions to get started with using the Bank Management System.
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
